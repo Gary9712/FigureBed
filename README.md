@@ -1,2 +1,3 @@
 # FigureBed
-我的markdown图床
+
+Only used for my markdown files
